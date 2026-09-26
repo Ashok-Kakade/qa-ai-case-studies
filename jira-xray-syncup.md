@@ -2,7 +2,7 @@
 
 **Automating Test Execution Management & Real-Time CI/CD Result Sync**
 
-*Ashok Kakade | QA Automation Architect | NGDATA*
+*Ashok Kakade | Principal QA Automation Engineer |QA Automation Architect | NGDATA*
 
 ---
 
